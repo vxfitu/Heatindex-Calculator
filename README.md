@@ -14,6 +14,6 @@ How to execute the script:
 5. Type --> python3/python weather_script.py  then press "enter" to start the script.
 6. It will run in the terminal or CMD and update every 10 minutes.
 
-NOTES: Since the script using geocoder to retrieve current location and openweathermap API: http://api.openweathermap.org to retrieve weather information, therefore internet is required to get those data.
+NOTES: Since the script using geocoder(user's IP) to retrieve current location and openweathermap API: http://api.openweathermap.org to retrieve weather information, therefore internet is required to get those data.
 
   
